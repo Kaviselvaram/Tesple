@@ -5,7 +5,7 @@ export default function FoundersSection() {
   const founders = [
     {
       name: "Kaviselvaram",
-      role: "Founder & CEO",
+      role: "Founder",
       image: "/kaviselvaram_avatar.png",
       vision:
         "Building technology companies that combine intelligence, creativity, and scalable innovation.",
@@ -14,7 +14,7 @@ export default function FoundersSection() {
     },
     {
       name: "Praful",
-      role: "Co-Founder",
+      role: "Founder",
       image: "/praful_avatar.png",
       vision:
         "Helping organizations embrace the next generation of AI-powered transformation.",
